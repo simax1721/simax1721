@@ -29,7 +29,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,react,nextjs,mysql,tailwind,git,linux" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,react,nextjs,mysql,tailwind,bootstrap,git," />
 </p>
 
 ---
