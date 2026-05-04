@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  I build scalable backend systems and real-world web applications
+  Building scalable backend systems & real-world web applications
 </p>
 
 ---
@@ -20,8 +20,8 @@
 
 - 💻 Backend-focused Fullstack Developer  
 - 🧠 Fokus di backend system, database design, dan REST API  
-- 🛠️ Sudah membangun beberapa project real (organisasi & UMKM)  
-- ⚙️ Sering handle admin dashboard, ecommerce, dan sistem custom  
+- 🛠️ Berpengalaman membangun project real (organisasi & UMKM)  
+- ⚙️ Biasa handle admin dashboard, ecommerce, dan sistem custom  
 - 🌱 Lagi improve di system architecture & clean code  
 
 ---
@@ -29,7 +29,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,react,nextjs,mysql,tailwind,bootstrap,git," />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,react,nextjs,mysql,tailwind,bootstrap,git" />
 </p>
 
 ---
@@ -40,15 +40,6 @@
 - 🌐 Amanah Aceh → Website organisasi & sistem konten  
 - 🏫 PPDB System → Sistem pendaftaran siswa berbasis web  
 - 🛒 Ecommerce → Sistem penjualan untuk UMKM  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=simax1721&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=simax1721&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -65,5 +56,6 @@
 
 ---
 
-## ⚡ Quote
-> I build systems that actually get used 🚀
+<p align="center">
+  <i>I build systems that actually get used 🚀</i>
+</p>
