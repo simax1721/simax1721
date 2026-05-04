@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=simax1721&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Hi 👋, I'am M. Fadhlan (Simax)</h1>
+<h1 align="center">Hi 👋, I'm M. Fadhlan (Simax)</h1>
 <h3 align="center">Backend-focused Fullstack Developer</h3>
 
 <p align="center">
