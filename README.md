@@ -3,11 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=simax1721&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Hi 👋, M. Fadhlan (simax)</h1>
+<h1 align="center">Hi 👋, M. Fadhlan (Simax)</h1>
 <h3 align="center">Backend-focused Fullstack Developer</h3>
 
 <p align="center">
-  Building real-world web applications 🚀
+  🚀 Backend • API • Database • System Design
+</p>
+
+<p align="center">
+  I build scalable backend systems and real-world web applications
 </p>
 
 ---
@@ -15,9 +19,10 @@
 ## 🚀 About Me
 
 - 💻 Backend-focused Fullstack Developer  
-- 🧠 Fokus di system logic, database, dan API  
-- 🛠️ Sudah mengerjakan beberapa project real (client & organisasi)  
-- 🌱 Lagi belajar improve architecture & clean code  
+- 🧠 Fokus di backend system, database design, dan REST API  
+- 🛠️ Sudah membangun beberapa project real (organisasi & UMKM)  
+- ⚙️ Sering handle admin dashboard, ecommerce, dan sistem custom  
+- 🌱 Lagi improve di system architecture & clean code  
 
 ---
 
@@ -29,41 +34,12 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Projects
 
-### 🎬 Aceh Cinema
-> Platform web untuk konten/film lokal Aceh
-
-- Fullstack Development  
-- Admin Dashboard  
-- CMS System  
-
----
-
-### 🌐 Amanah Aceh
-> Website organisasi & platform informasi
-
-- Backend System  
-- Dynamic Content  
-- Optimization  
-
----
-
-### 🏫 PPDB System
-> Sistem pendaftaran siswa berbasis web
-
-- Student Registration  
-- Admin Panel  
-- Data Management  
-
----
-
-### 🛒 Ecommerce Projects
-> Website ecommerce untuk UMKM
-
-- Product Management  
-- Order System  
-- Dashboard Admin  
+- 🎬 Aceh Cinema → Platform web konten lokal Aceh  
+- 🌐 Amanah Aceh → Website organisasi & sistem konten  
+- 🏫 PPDB System → Sistem pendaftaran siswa berbasis web  
+- 🛒 Ecommerce → Sistem penjualan untuk UMKM  
 
 ---
 
