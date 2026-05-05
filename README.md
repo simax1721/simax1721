@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 💻 Backend-focused Fullstack Developer  
 - 🧠 Fokus di backend system, database design, dan REST API  
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,react,nextjs,mysql,tailwind,bootstrap,git" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 - 🎬 Aceh Cinema → Platform web konten lokal Aceh  
 - 🌐 Amanah Aceh → Website organisasi & sistem konten  
@@ -43,7 +43,7 @@
 
 ---
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:simax1721@gmail.com">
