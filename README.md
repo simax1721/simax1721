@@ -46,10 +46,10 @@
 ## Connect With Me
 
 <p align="center">
-  <a href="mailto:simax1721@gmail.com">
+  <a target="_blank" href="mailto:simax1721@gmail.com">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/m-fadhlan-217897282">
+  <a target="_blank" href="https://www.linkedin.com/in/m-fadhlan-217897282">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
