@@ -19,10 +19,10 @@
 ## About Me
 
 - 💻 Backend-focused Fullstack Developer  
-- 🧠 Fokus di backend system, database design, dan REST API  
-- 🛠️ Berpengalaman membangun project real (organisasi & UMKM)  
-- ⚙️ Biasa handle admin dashboard, ecommerce, dan sistem custom  
-- 🌱 Lagi improve di system architecture & clean code  
+- 🧠 Focused on backend systems, database design, and REST APIs  
+- 🛠️ Experienced in building real-world projects (organizations & small businesses)  
+- ⚙️ Comfortable with admin dashboards, ecommerce, and custom systems  
+- 🌱 Currently improving system architecture & clean code  
 
 ---
 
@@ -36,10 +36,10 @@
 
 ## Projects
 
-- 🎬 Aceh Cinema → Platform web konten lokal Aceh  
-- 🌐 Amanah Aceh → Website organisasi & sistem konten  
-- 🏫 PPDB System → Sistem pendaftaran siswa berbasis web  
-- 🛒 Ecommerce → Sistem penjualan untuk UMKM  
+- 🎬 Aceh Cinema → Local movie/content platform  
+- 🌐 Amanah Aceh → Organization website & content system  
+- 🏫 PPDB System → Student admission web system  
+- 🛒 Ecommerce → Sales system for small businesses  
 
 ---
 
