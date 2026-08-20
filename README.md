@@ -4,22 +4,23 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm M. Fadhlan (simax1721)</h1>
-<h3 align="center">Backend-focused Fullstack Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="center">
-  🚀 Backend • API • Database • System Design
+  🚀 Fullstack • AI-Assisted Development • API • System Design
 </p>
 
 <p align="center">
-  Building scalable backend systems & real-world web applications
+  Building real-world web applications, backend to frontend
 </p>
 
 ---
 
 ## About Me
 
-- 💻 Backend-focused Fullstack Developer  
-- 🧠 Focused on backend systems, database design, and REST APIs  
+- 💻 Fullstack Developer — comfortable across backend and frontend  
+- 🧠 Backend systems, database design, and REST APIs  
+- ⚡ AI-assisted development (vibe coding) with Claude Code & Codex  
 - 🛠️ Experienced in building real-world projects (organizations & small businesses)  
 - ⚙️ Comfortable with admin dashboards, ecommerce, and custom systems  
 - 🌱 Currently improving system architecture & clean code  
