@@ -29,7 +29,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,react,nextjs,mysql,tailwind,bootstrap,git" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,react,mysql,tailwind,bootstrap,git" />
 </p>
 
 ---
@@ -46,11 +46,14 @@
 ## Connect With Me
 
 <p align="center">
-  <a target="_blank" href="mailto:simax1721@gmail.com">
+  <a target="_blank" href="mailto:mfadhlan1721@gmail.com">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/m-fadhlan-217897282">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a target="_blank" href="https://github.com/simax1721">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
