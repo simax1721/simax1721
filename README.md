@@ -4,49 +4,53 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm M. Fadhlan (simax1721)</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Backend / Fullstack Developer</h3>
 
 <p align="center">
-  🚀 Fullstack • AI-Assisted Development • API • System Design
+  🚀 Backend Systems • REST APIs • Fullstack • System Design
 </p>
 
 <p align="center">
-  Building real-world web applications, backend to frontend
+  <a href="https://mfadhlan1721.vercel.app" target="_blank"><b>🌐 View my portfolio →</b></a>
 </p>
 
 ---
 
 ## About Me
 
-- 💻 Fullstack Developer — comfortable across backend and frontend  
-- 🧠 Backend systems, database design, and REST APIs  
-- ⚡ AI-assisted development (vibe coding) with Claude Code & Codex  
-- 🛠️ Experienced in building real-world projects (organizations & small businesses)  
-- ⚙️ Comfortable with admin dashboards, ecommerce, and custom systems  
-- 🌱 Currently improving system architecture & clean code  
+- 💻 Backend / Fullstack Developer — Laravel and REST APIs first, React on the frontend
+- 🧠 Building production systems: payment integration, rental/access-control logic, multi-subdomain architecture
+- 🛠️ Real-world projects for organizations and small businesses — admin dashboards, ecommerce, IoT monitoring
+- ⚡ AI-assisted development (Claude Code, Codex) as part of the workflow
+- 🌱 Currently improving system architecture & clean code
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,react,mysql,tailwind,bootstrap,git" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts,js,react,mysql,postgres,firebase,tailwind,bootstrap,git" />
 </p>
 
 ---
 
 ## Projects
 
-- 🎬 Aceh Cinema → Local movie/content platform  
-- 🌐 Amanah Aceh → Organization website & content system  
-- 🏫 PPDB System → Student admission web system  
-- 🛒 Ecommerce → Sales system for small businesses  
+- 🎬 [Aceh Cinema](https://acehcinema.com) → Rental-based film streaming platform, live in production — 40+ REST API endpoints, Midtrans payments, multi-subdomain architecture
+- 🌐 [Amanah Aceh](https://amanahaceh.org) → Organization website & content management system
+- 🌱 Berkah Bibit → Plant seedling ecommerce with admin dashboard & Midtrans payments
+- 📡 HydroSmart IoT → Real-time IoT monitoring system (ESP32 → Firebase → React dashboard)
+
+Full case studies on my [portfolio](https://mfadhlan1721.vercel.app).
 
 ---
 
 ## Connect With Me
 
 <p align="center">
+  <a target="_blank" href="https://mfadhlan1721.vercel.app">
+    <img src="https://img.shields.io/badge/portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a target="_blank" href="mailto:mfadhlan1721@gmail.com">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
